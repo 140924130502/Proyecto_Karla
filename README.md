@@ -114,10 +114,10 @@
 	</div>
 
 	<div class="topnav">
-		<a href="[[http://localhost/UV/men%C3%BA.html](https://140924130502.github.io/Proyecto_Karla/)](https://140924130502.github.io/men-/)"> Menú </a> 
-		<a href="[http://localhost/UV/ubicaci%C3%B3n.html](https://140924130502.github.io/ubicaci-n/)"> Ubicación </a> 
-		<a href="[http://localhost/UV/promociones.html](https://140924130502.github.io/ubicaci-n/)"> Promociones </a>
-		<a href="[http://localhost/UV/men%C3%BA.html](https://140924130502.github.io/Proyecto_Karla/)" style="float:right"> Inicio</a>
+		<a href="(https://140924130502.github.io/Proyecto_Karla/)](https://140924130502.github.io/men-/)"> Menú </a> 
+		<a href="(https://140924130502.github.io/ubicaci-n/)"> Ubicación </a> 
+		<a href="(https://140924130502.github.io/ubicaci-n/)"> Promociones </a>
+		<a href="(https://140924130502.github.io/Proyecto_Karla/)" style="float:right"> Inicio</a>
 	</div>
 
 	<div class="row">
